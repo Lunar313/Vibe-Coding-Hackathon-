@@ -2,3 +2,5 @@
 This project involves the development of a management tool for our final project. 
 
 This is a test by Theresa.
+
+Test commit to verify the GitHub link is working.
